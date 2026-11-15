@@ -1,0 +1,7 @@
+B-roll from Wikimedia Commons (add to the post caption where the licence requires attribution):
+- "Sydney Opera House drone" by Tim Astor, CC BY 3.0
+- "Humpback Whale by Drone Clovelly and Coogee beaches, Sydney" by Adam Fish, CC BY 3.0
+- "Sydney Opera House from Ferry video -1" by SandwichCafe, CC BY 2.0
+- "Black Head Beach, New South Wales" by JaredMcKenzie, CC0 (no attribution required)
+Music: generated with code/music_gen.py (original, no licence needed).
+Caption-ready line: B-roll: Tim Astor, Adam Fish, SandwichCafe via Wikimedia Commons (CC BY).
